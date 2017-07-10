@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<data-set xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<racine>Mon Entreprise</racine>
+	<record id="1">
+		<nom>jean</nom>
+		<prenom>pierre</prenom>
+		<id>1</id>
+		<groupe>1</groupe>
+		<projet>bd</projet>
+		<siege>poitiers</siege>
+</record>
+	<record id="2">
+		<nom>alain</nom>
+		<prenom>jacques</prenom>
+		<id>2</id>
+		<groupe>2</groupe>
+		<projet>hj</projet>
+		<siege>niort</siege>
+</record>
+</data-set>

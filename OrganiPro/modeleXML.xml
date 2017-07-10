@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<data-set xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<racine>Mon Entreprise</racine>
+	<record id="1">
+		<nom>ROGER</nom>
+		<prenom>jean</prenom>
+		<groupe>chantier Bessine</groupe>
+		<projet>toto</projet>
+		<siege>poitiers</siege>
+	</record>
+	<record id="2">
+		<nom>DAMIEN</nom>
+		<prenom>pierre</prenom>
+		<groupe>chantier  Maziere en Gatine</groupe>
+		<projet>tata</projet>
+		<siege>niort</siege>
+	</record>
+	<record id="3">
+		<nom>DU FOUR</nom>
+		<prenom>roger</prenom>
+		<groupe>chantier  Maziere en Gatine</groupe>
+		<projet>titi</projet>
+		<siege>poitiers</siege>
+	</record>
+	<record id="4">
+		<nom>DE LA BRECHE</nom>
+		<prenom>pierre</prenom>
+		<groupe>chantier Bessine</groupe>
+		<projet>tata</projet>
+		<siege>niort</siege>
+	</record>
+</data-set>
